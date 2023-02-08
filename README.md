@@ -5,7 +5,7 @@ For further support we recommend joining our community discord, from support fro
 
 ### Examples 
 - Use preset / prefill values in the Apify Actor
-- For a programmatic example view `/examples/example.py` for a python example
+- For a programmatic example view `example.py` for a python example
 
 
 # Tutorial / Guide
