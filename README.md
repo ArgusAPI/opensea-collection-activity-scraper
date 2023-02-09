@@ -1,6 +1,6 @@
 # Opensea Collection Activity / Events Scraper
 ### By ArgusAPI
-#### To use this API / Scraper you can check it out on Apify for free here (APIFY LINK HERE)
+#### To use this API / Scraper you can check it out on Apify for free here (https://apify.com/argusapi/opensea-collection-activity-scraper)
 For further support we recommend joining our community discord, from support from Argus or the community. [Join our discord](https://discord.gg/m5psNeqkaQ)
 
 ### Examples 
